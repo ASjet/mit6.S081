@@ -1,0 +1,3 @@
+[submodule "labs"]
+	path = labs
+	url = git@github.com:ASjet/xv6-labs-2021
