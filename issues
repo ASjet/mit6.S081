@@ -1,0 +1,2 @@
+1. GDB issue in making break points in user process
+add `set riscv use-compressed-breakpoints yes` in `.gdbinit.tmpl-riscv`
