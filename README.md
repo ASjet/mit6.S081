@@ -11,7 +11,7 @@
 
 ## Labs
 
-- [ ] [Utilities](https://pdos.csail.mit.edu/6.828/2021/labs/util.html)
+- [x] [Utilities](https://pdos.csail.mit.edu/6.828/2021/labs/util.html) 2021.12.12
 - [ ] [System Calls](https://pdos.csail.mit.edu/6.828/2021/labs/syscall.html)
 - [ ] [Page Tables](https://pdos.csail.mit.edu/6.828/2021/labs/pgtbl.html)
 - [ ] [Traps](https://pdos.csail.mit.edu/6.828/2021/labs/traps.html)
