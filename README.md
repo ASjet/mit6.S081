@@ -1,4 +1,4 @@
-# MIT 6.S081
+# MIT 6.S081 / Fall 2021
 
 [Schedule](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 
