@@ -17,7 +17,9 @@
 - [x] [System Calls](https://pdos.csail.mit.edu/6.828/2021/labs/syscall.html)
 	**Date:** 2021.12.19
 	**Time:** 2hr
-- [ ] [Page Tables](https://pdos.csail.mit.edu/6.828/2021/labs/pgtbl.html)
+- [x] [Page Tables](https://pdos.csail.mit.edu/6.828/2021/labs/pgtbl.html)
+	**Date:** 2022.01.24
+	**Time:** 4hr
 - [ ] [Traps](https://pdos.csail.mit.edu/6.828/2021/labs/traps.html)
 - [ ] [Copy-on-Write](https://pdos.csail.mit.edu/6.828/2021/labs/cow.html)
 - [ ] [Multithreading](https://pdos.csail.mit.edu/6.828/2021/labs/thread.html)
