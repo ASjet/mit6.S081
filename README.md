@@ -23,7 +23,9 @@
 - [x] [Traps](https://pdos.csail.mit.edu/6.828/2021/labs/traps.html)
 	**Date:** 2022.02.01
 	**Time:** 3hr
-- [ ] [Copy-on-Write](https://pdos.csail.mit.edu/6.828/2021/labs/cow.html)
+- [x] [Copy-on-Write](https://pdos.csail.mit.edu/6.828/2021/labs/cow.html)
+	**Date:** 2022.02.05
+	**Time:** 8hr
 - [ ] [Multithreading](https://pdos.csail.mit.edu/6.828/2021/labs/thread.html)
 - [ ] [Network Driver](https://pdos.csail.mit.edu/6.828/2021/labs/net.html)
 - [ ] [Lock](https://pdos.csail.mit.edu/6.828/2021/labs/lock.html)
