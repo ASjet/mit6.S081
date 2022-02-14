@@ -29,7 +29,9 @@
 - [x] [Multithreading](https://pdos.csail.mit.edu/6.828/2021/labs/thread.html)
 	**Date:** 2022.02.11
 	**Time:** 2hr
-- [ ] [Network Driver](https://pdos.csail.mit.edu/6.828/2021/labs/net.html)
+- [x] [Network Driver](https://pdos.csail.mit.edu/6.828/2021/labs/net.html)
+	**Date:** 2022.02.14
+	**Time:** 3hr
 - [ ] [Lock](https://pdos.csail.mit.edu/6.828/2021/labs/lock.html)
 - [ ] [File System](https://pdos.csail.mit.edu/6.828/2021/labs/fs.html)
 - [ ] [MMap](https://pdos.csail.mit.edu/6.828/2021/labs/mmap.html)
