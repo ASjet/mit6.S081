@@ -13,7 +13,7 @@
 
 - [x] [Utilities](https://pdos.csail.mit.edu/6.828/2021/labs/util.html)
 	**Date:** 2021.12.12
-	**Time:** 3.5hr
+	**Time:** 4hr
 - [x] [System Calls](https://pdos.csail.mit.edu/6.828/2021/labs/syscall.html)
 	**Date:** 2021.12.19
 	**Time:** 2hr
@@ -32,7 +32,9 @@
 - [x] [Network Driver](https://pdos.csail.mit.edu/6.828/2021/labs/net.html)
 	**Date:** 2022.02.14
 	**Time:** 3hr
-- [ ] [Lock](https://pdos.csail.mit.edu/6.828/2021/labs/lock.html)
+- [x] [Lock](https://pdos.csail.mit.edu/6.828/2021/labs/lock.html)
+	**Date:** 2022.02.26
+	**Time:** 2hr
 - [ ] [File System](https://pdos.csail.mit.edu/6.828/2021/labs/fs.html)
 - [ ] [MMap](https://pdos.csail.mit.edu/6.828/2021/labs/mmap.html)
 
