@@ -38,5 +38,7 @@
 - [x] [File System](https://pdos.csail.mit.edu/6.828/2021/labs/fs.html)
 	**Date:** 2022.02.27
 	**Time:** 2hr
-- [ ] [MMap](https://pdos.csail.mit.edu/6.828/2021/labs/mmap.html)
+- [x] [MMap](https://pdos.csail.mit.edu/6.828/2021/labs/mmap.html)
+	**Date:** 2022.03.01
+	**Time:** 8hr
 
